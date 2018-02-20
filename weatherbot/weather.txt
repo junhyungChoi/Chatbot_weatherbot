@@ -1,0 +1,13 @@
+1. 앱 ID: 1671900132866336
+
+2. 앱 시크릿 코드: cb1fb8f672c666f82dc657f66619234b
+
+3. 페이지 액세스 토큰
+EAAXwlZAWEZBSABAHedfCVuIWkfF9hZCbZCFvXHy9nkg2Rrallie89m4u2dUNM6fomf2RQdZAYj7P4ZBX2iod4GenD2XXZCbLZBTMxbozXpl450VbTjCFlU7Whdy0a9WXatjHWEqZAUx10RGBFtpxZA6Pq9FDDo5Rh8x3rdViNlEl3fcgZDZD
+
+bothub channel add facebook --page-access-token=EAAXwlZAWEZBSABAHedfCVuIWkfF9hZCbZCFvXHy9nkg2Rrallie89m4u2dUNM6fomf2RQdZAYj7P4ZBX2iod4GenD2XXZCbLZBTMxbozXpl450VbTjCFlU7Whdy0a9WXatjHWEqZAUx10RGBFtpxZA6Pq9FDDo5Rh8x3rdViNlEl3fcgZDZD 
+bothub channel add facebook --app-secret=cb1fb8f672c666f82dc657f66619234b 
+bothub channel add facebook --app-id=1671900132866336
+
+1. weather API keys: 6a5beaeff30e04d92c42f59d7c17eba5
+2. 
